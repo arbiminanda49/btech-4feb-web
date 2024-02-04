@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>501b26d9-df5d-40c7-86ba-aed832885e88</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>223914fe-bbec-4c8f-950e-51d8d8d682a8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3f3abc2-3e2c-4ccc-b4e9-eb3095fa42cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbc38f09-93ef-43d2-8efb-2306b5dcb4d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.validEmail</defaultValue>
+      <description></description>
+      <id>223914fe-bbec-4c8f-950e-51d8d8d682a8</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.validPass</defaultValue>
+      <description></description>
+      <id>a3f3abc2-3e2c-4ccc-b4e9-eb3095fa42cf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cbc38f09-93ef-43d2-8efb-2306b5dcb4d3</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>
